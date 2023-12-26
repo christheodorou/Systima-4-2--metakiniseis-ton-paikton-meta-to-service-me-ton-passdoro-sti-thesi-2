@@ -24,7 +24,7 @@ http://photodentro.edu.gr/v/item/ugc/8525/1594
 ελληνικά
 ΤΕΧΝΙΚΑ ΣΤΟΙΧΕΙΑ
 ΜΟΡΦΟΤΥΠΟΣ:
-application/h5p (1.07 MB)
+application/h5p (1.06 MB)
 ΤΕΧΝΙΚΕΣ ΑΠΑΙΤΗΣΕΙΣ:
 φυλλομετρητής: Internet Explorer, Mozilla Firefox, Safari, Google Chrome, Opera, Microsoft Edge
 λειτουργικό σύστημα: Windows XP, Windows 2000, Windows Vista, Windows 7, Windows 8, Linux, Windows 10, Apple macOS, Android OS
